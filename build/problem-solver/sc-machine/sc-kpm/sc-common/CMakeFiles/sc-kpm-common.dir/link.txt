@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -O3 -DNDEBUG -DNDEBUG -shared -Wl,-soname,libsc-kpm-common.so -o /home/begula/nika/bin/libsc-kpm-common.so "CMakeFiles/sc-kpm-common.dir/sc_keynodes.c.o"  -Wl,-rpath,/home/begula/nika/bin /home/begula/nika/bin/libsc-core.so -Wl,--export-dynamic -L/usr/lib/x86_64-linux-gnu -lgmodule-2.0 -pthread -lglib-2.0 -lglib-2.0 
