@@ -5,12 +5,12 @@
   </a>
 </p>
 
-> **N**IKA is an **I**ntelligent **K**nowledge-driven **A**ssistant
+> **HIST**MAN is an **I**ntelligent **K**nowledge-driven **A**ssistant
 
 ## About
-NIKA is an ostis-system designed with [OSTIS Technology principles](https://github.com/ostis-ai) in mind. 
+HISTMAN is an ostis-system designed with [OSTIS Technology principles](https://github.com/ostis-ai) in mind. 
 
-You can learn more about it by asking the assistant: "What's NIKA?"
+You can learn more about it by asking the assistant: "What's HISTMAN?"
 
 ## Run documentation
 
